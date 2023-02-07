@@ -1,6 +1,6 @@
 {
-	"name": "@grammyjs/i18n",
-	"version": "0.5.1",
+	"name": "telegraf-grammyjs-i18n",
+	"version": "0.5.2",
 	"description": "Internationalization middleware for grammY and Telegraf",
 	"keywords": [
 		"telegram bot",
@@ -34,7 +34,7 @@
 		"node": ">=12"
 	},
 	"dependencies": {
-		"compile-template": "^0.3.1",
+		"compile-template": "github:newTomas/compile-template#patch-1",
 		"debug": "^4.0.1",
 		"js-yaml": "^4.0.0"
 	},
